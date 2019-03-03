@@ -16,7 +16,7 @@ Below are demos of commands and explanations of what they are doing.
 *  `Yes/True` will view the inventory
 *  `No/False` will close the program
 
-![inventory img](screenshots/1.png)
+![inventory img](screenshots/1.jpg)
  
 After answering yes to the prompt, a table is made (with cli-table). The table is populated through the database via query. Each row (item) is indexed and pushed onto the table for viewing. After the table is displayed, a new prompt (for purchasing) is enabled.
   
@@ -31,7 +31,7 @@ After answering yes to the prompt, a table is made (with cli-table). The table i
 
 After answering yes to the prompt, a new prompt to enter the id and quantity will be enabled. If the user enters an invalid id or quantity, then they will be redirected back to the prompt to try again (TODO: option to exit program at this stage). If the id and quantity is valid, a review of the purchase appears, and a new prompt to confirm the purchase. If the purchase is confirmed, the database is updated, the users purchase is confirmed, and the program ends.
   
-  ![purchase img](screenshots/3.jpg)
+  ![purchase img](screenshots/2.jpg)
   
   Below, the updated database is shown.
   
