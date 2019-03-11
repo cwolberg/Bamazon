@@ -1,0 +1,25 @@
+{
+    "name": "bamazon",
+    "version": "1.0.0",
+    "description": "storefront online order",
+    "main": "amazonCustomer.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "chris wolberg",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^6.2.2",
+      "cli-table": "^0.3.1",
+      "mysql": "^2.16.0"
+    },
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cwolberg/bamazon.git"
+    },
+    "bugs": {
+      "url": "https://github.com/cwolberg/bamazon/issues"
+    },
+    "homepage": "https://github.com/cwolberg/bamazon#readme"
+  }
