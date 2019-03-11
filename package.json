@@ -16,10 +16,10 @@
     "devDependencies": {},
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/cwolberg/bamazon.git"
+      "url": "git+https://github.com/cwolberg/Bamazon.git"
     },
     "bugs": {
-      "url": "https://github.com/cwolberg/bamazon/issues"
+      "url": "https://github.com/cwolberg/Bamazon/issues"
     },
-    "homepage": "https://github.com/cwolberg/bamazon#readme"
+    "homepage": "https://github.com/cwolberg/Bamazon#readme"
   }
